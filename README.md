@@ -41,6 +41,10 @@
 
 ## Freshman Coursework
 
+[![Comp1210 Readme](https://github-readme-stats.vercel.app/api/pin/?username=MatthewBentz&repo=Comp1210&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+[![Comp2210 Readme](https://github-readme-stats.vercel.app/api/pin/?username=MatthewBentz&repo=Comp2210&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+
+
 <div style="display: flex; flex-wrap: wrap; justify-content: space-between;">
   <div style="width: 49%;">
     <a href="https://github.com/anuraghazra/github-readme-stats">
