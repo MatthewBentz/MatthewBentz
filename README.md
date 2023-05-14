@@ -24,18 +24,8 @@
 
 <br>
 
-<div style="display: flex; flex-wrap: wrap;">
-  <div style="width: 50%;">
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img align="center" src="https://github-readme-stats.vercel.app/api?username=MatthewBentz&hide=issues&count_private=true&show_icons=true&theme=transparent&include_all_commits=true&custom_title=Matthew's%20GitHub" height="200" style="width: 100%;"/>
-    </a>
-  </div>
-  <div style="width: 50%;">
-    <a href="https://github.com/anuraghazra/convoychat">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatthewBentz&theme=transparent&size_weight=0.5&count_weight=0.5&langs_count=10&hide=makefile,c&layout=compact" height="200" style="width: 100%;"/>
-    </a>
-  </div>
-</div>
+[![GitHub Overview](https://github-readme-stats.vercel.app/api?username=MatthewBentz&hide=issues&count_private=true&show_icons=true&theme=transparent&include_all_commits=true&custom_title=Matthew's%20GitHub)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MatthewBentz&theme=transparent&size_weight=0.5&count_weight=0.5&langs_count=10&hide=makefile,c&layout=compact)](https://github.com/anuraghazra/convoychat)
 
 <br>
 
@@ -44,44 +34,13 @@
 [![Comp1210 Readme](https://github-readme-stats.vercel.app/api/pin/?username=MatthewBentz&repo=Comp1210&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 [![Comp2210 Readme](https://github-readme-stats.vercel.app/api/pin/?username=MatthewBentz&repo=Comp2210&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
-
-<div style="display: flex; flex-wrap: wrap; justify-content: space-between;">
-  <div style="width: 49%;">
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MatthewBentz&repo=Comp1210&theme=transparent" style="width: 100%; height: 100%;" />
-    </a>
-  </div>
-  <div style="width: 49%;">
-    <a href="https://github.com/anuraghazra/convoychat">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MatthewBentz&repo=Comp2210&theme=transparent" style="width: 100%; height: 100%;" />
-    </a>
-  </div>
-</div>
-
 <br>
 
 ## Sophomore Coursework
 
-<div style="display: flex; flex-wrap: wrap; justify-content: space-between;">
-  <div style="width: 49%;">
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MatthewBentz&repo=Stat3010&theme=transparent" style="width: 100%; height: 100%;" />
-    </a>
-  </div>
-  <div style="width: 49%;">
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MatthewBentz&repo=Comp3350&theme=transparent" style="width: 100%; height: 100%;" />
-    </a>
-  </div>
-</div>
-
-<br>
-
-<div style="width: 49%;">
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MatthewBentz&repo=Comp2710&theme=transparent" style="width: 100%; height: 100%;" />
-    </a>
-</div>
+[![Stat3010 Readme](https://github-readme-stats.vercel.app/api/pin/?username=MatthewBentz&repo=Stat3010&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+[![Comp3350 Readme](https://github-readme-stats.vercel.app/api/pin/?username=MatthewBentz&repo=Comp3350&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+[![Comp2710 Readme](https://github-readme-stats.vercel.app/api/pin/?username=MatthewBentz&repo=Comp2710&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
 <br>
 
