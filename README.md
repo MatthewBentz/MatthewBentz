@@ -24,8 +24,15 @@
 
 <br>
 
-[![GitHub Overview](https://github-readme-stats.vercel.app/api?username=MatthewBentz&hide=issues&count_private=true&show_icons=true&theme=transparent&include_all_commits=true&custom_title=Matthew's%20GitHub)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MatthewBentz&theme=transparent&size_weight=0.5&count_weight=0.5&langs_count=10&hide=makefile,c&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=MatthewBentz&hide=issues&count_private=true&show_icons=true&theme=transparent&include_all_commits=true&custom_title=Matthew's%20GitHub" height="200" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatthewBentz&theme=transparent&size_weight=0.5&count_weight=0.5&langs_count=10&hide=makefile,c&layout=compact" height="200" />
+</a>
+
+<!--[![GitHub Overview](https://github-readme-stats.vercel.app/api?username=MatthewBentz&hide=issues&count_private=true&show_icons=true&theme=transparent&include_all_commits=true&custom_title=Matthew's%20GitHub)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MatthewBentz&theme=transparent&size_weight=0.5&count_weight=0.5&langs_count=10&hide=makefile,c&layout=compact)](https://github.com/anuraghazra/github-readme-stats)-->
 
 <br>
 
